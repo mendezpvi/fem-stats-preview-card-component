@@ -29,7 +29,7 @@ Users should be able to:
 
 [Live site URL here](https://mendezpvi.github.io/fem-stats-preview-card-component/) 👈
 
-<!-- [Solution in Frontend Mentor here]() 👈 -->
+[Solution in Frontend Mentor here](https://www.frontendmentor.io/solutions/stats-preview-card-component-using-flexbox-Ns2qorEUbl) 👈
 
 
 ## Built with :hammer_and_pick:
